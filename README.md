@@ -143,7 +143,7 @@
   <a href="https://www.facebook.com/people/Ahadul-Haque-Naim/100005566751612/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
-  <a href="https://tinyurl.com/58kcm3uh" target="_blank">
+  <a href="https://ahadulhaquenaim.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </p>
