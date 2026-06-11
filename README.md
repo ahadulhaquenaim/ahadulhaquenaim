@@ -143,6 +143,9 @@
 
 ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### 🧪 Testing
 
