@@ -128,7 +128,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B0000?style=for-the-badge&logo=python&logoColor=white)
 
-### ☁️ Cloud, DevOps and Monitoring
+### ☁️ Cloud, DevOps, and Monitoring
 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -139,13 +139,19 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-### 🤖 AI and Intelligent Automation
+
+### 🤖 AI & Data Processing
 
 ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A9EDC?style=for-the-badge&logo=databricks&logoColor=white)
+![LangChain / LangGraph](https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-6D28D9?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-FF7F50?style=for-the-badge&logo=databricks&logoColor=white)
+![Pandas / BeautifulSoup4](https://img.shields.io/badge/Pandas%20%2F%20BeautifulSoup4-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🧪 Testing
 
